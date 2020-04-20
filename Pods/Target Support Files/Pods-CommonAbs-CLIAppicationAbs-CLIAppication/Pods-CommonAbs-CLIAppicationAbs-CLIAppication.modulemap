@@ -1,0 +1,6 @@
+framework module Pods_CommonAbs_CLIAppicationAbs_CLIAppication {
+  umbrella header "Pods-CommonAbs-CLIAppicationAbs-CLIAppication-umbrella.h"
+
+  export *
+  module * { export * }
+}

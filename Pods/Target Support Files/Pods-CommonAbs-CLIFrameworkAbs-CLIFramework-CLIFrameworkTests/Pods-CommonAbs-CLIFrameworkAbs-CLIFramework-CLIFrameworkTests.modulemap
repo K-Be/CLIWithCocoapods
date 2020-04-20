@@ -1,0 +1,6 @@
+framework module Pods_CommonAbs_CLIFrameworkAbs_CLIFramework_CLIFrameworkTests {
+  umbrella header "Pods-CommonAbs-CLIFrameworkAbs-CLIFramework-CLIFrameworkTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
